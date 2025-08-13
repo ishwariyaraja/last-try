@@ -1,0 +1,43 @@
+
+@media screen and (max-width:670px){
+    .navbar{
+      background-color: #fff;
+      z-index: 2;
+    }
+    .nav-link{
+    color:black;
+    font-size:15px;
+   }
+    .nav-link:hover{
+    color:greenyellow;
+   }
+   .btns{
+    color: black;
+    font-size:15px ;
+   }  
+   .main{
+    background-position:center top; 
+} 
+.main-2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+}
+.para2{
+    margin-top:20px;
+}
+.coff{
+    display:flex;
+    flex-direction: row;
+}
+.coff img{
+    width:300px;
+    height: auto;
+}
+.one{
+    margin: 20px;
+}
+.add-1{
+    margin-bottom:15px;
+}
+}
