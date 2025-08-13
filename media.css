@@ -24,8 +24,7 @@
     flex-direction:row;
 }
 .para2{
-    margin-top:20px;
-    margin-left:25px;
+  margin:20px;
 }
 .coff{
     display:flex;
